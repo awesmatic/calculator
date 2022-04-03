@@ -1,0 +1,74 @@
+.button {
+  width: 4em;
+  height: 3.72em;
+  font-size: 18px;
+  font-weight: bolder;
+  background-color: rgb(20, 19, 19);
+  cursor: pointer;
+  margin: 2px;
+  border-radius: 20px;
+  font-size: 1.5rem;
+  /* flex-grow: 1; */
+  color: white;
+}
+.button1 {
+  /* flex-grow: 2; */
+  width: 8em;
+  height: 3.72em;
+  margin: 2px;
+  font-size: 18px;
+  font-weight: bolder;
+  background-color: #d44c2f;
+  cursor: pointer;
+  color: aliceblue;
+  border-radius: 20px;
+  font-size: 1.5rem;
+}
+.button3 {
+  width: 4em;
+  height: 3.72em;
+  color: #d44c2f;
+  margin: 2px;
+  font-size: 18px;
+  font-weight: bolder;
+  background-color: rgb(20, 19, 19);
+  cursor: pointer;
+  border-radius: 20px;
+  font-size: 1.5rem;
+}
+.button4 {
+  width: 8em;
+  height: 3.72em;
+  margin: 2px;
+  font-size: 18px;
+  font-weight: bolder;
+  color: #d44c2f;
+  background-color: rgb(20, 19, 19);
+  cursor: pointer;
+  border-radius: 20px;
+  font-size: 1.5rem;
+}
+.result {
+  /* width: 100%; */
+  /* height: 4em;
+  border-radius: 10px 10px 0 0;
+  background-color: rgb(247, 244, 240);
+  color: black;
+  text-align: right;
+  font-size: 2.5rem;
+  margin: 0;
+  border: 1px black solid; */
+}
+.keypad {
+  margin: 1.5rem;
+  background-color: rgb(20, 19, 19);
+}
+input {
+  width: 100%;
+  height: 160px;
+  text-align: right;
+  font-size: 2.5rem;
+  border: none;
+  background-color: rgb(20, 19, 19);
+  color: blanchedalmond;
+}
